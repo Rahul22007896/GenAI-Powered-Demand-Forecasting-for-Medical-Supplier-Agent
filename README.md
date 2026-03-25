@@ -1,4 +1,4 @@
-# LLM-Powered Demand Forecasting Analytics Platform (PharmaCast)
+# GenAI Powered Demand Forecasting for Medical Supplier Agent
 
 ##  Overview
 
