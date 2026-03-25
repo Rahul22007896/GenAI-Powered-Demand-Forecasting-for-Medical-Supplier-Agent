@@ -4,6 +4,9 @@
 
 PharmaCast is an AI-powered demand forecasting analytics platform that enables users to query pharmaceutical and medical supply data using natural language.
 
+<img width="975" height="650" alt="image" src="https://github.com/user-attachments/assets/7e7f026c-9960-44be-9607-3c8374e8c3ac" />
+
+
 It leverages Large Language Models (LLMs) to:
 
 * Convert user queries → SQL
